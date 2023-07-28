@@ -1,0 +1,16 @@
+{
+  "name": "@aliothor/eslint-config-monorepo",
+  "version": "0.0.1",
+  "private": true,
+  "description": "aliothor ESLint config",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "aliothor",
+  "license": "MIT"
+}

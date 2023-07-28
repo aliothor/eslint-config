@@ -1,0 +1,24 @@
+{
+  "name": "@aliothor/eslint-config",
+  "version": "0.0.1",
+  "description": "aliothor ESLint config",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "aliothor",
+  "license": "MIT",
+  "dependencies": {
+    "@antfu/eslint-config": "^0.39.8"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  }
+}

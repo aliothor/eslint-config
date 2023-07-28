@@ -1,0 +1,18 @@
+{
+  "name": "@aliothor/eslint-config-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "aliothor ESLint config test",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@aliothor/eslint-config": "workspace:^",
+    "eslint": "^8.45.0"
+  }
+}
