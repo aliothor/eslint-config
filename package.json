@@ -12,5 +12,8 @@
     "eslint-config"
   ],
   "author": "aliothor",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "changelogen": "^0.5.4"
+  }
 }

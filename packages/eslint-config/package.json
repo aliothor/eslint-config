@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "aliothor ESLint config",
   "main": "index.js",
+  "private": false,
   "files": [
     "index.js"
   ],
@@ -20,5 +21,9 @@
   },
   "peerDependencies": {
     "eslint": ">=8.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
